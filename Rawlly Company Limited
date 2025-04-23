@@ -1,0 +1,87 @@
+index.html
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rawlly Company Limited</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+      background-color: white;
+      margin-top: 20px;
+      border-radius: 8px;
+    }
+    section h2 {
+      color: #004080;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      background-color: #00264d;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+    .contact {
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Rawlly Company Limited</h1>
+    <p>Professional Services Across Legal, Pharmaceutical, and Public Health Sectors</p>
+  </header>
+
+  <section>
+    <h2>Who We Are</h2>
+    <p>Rawlly Company Limited is a multi-disciplinary service provider specializing in pharmaceutical imports and exports, legal and health consultancy, infrastructure development, and medical research. We bring innovation and integrity to every project we undertake.</p>
+  </section>
+
+  <section>
+    <h2>Our Core Services</h2>
+    <ul>
+      <li><strong>Legal:</strong> Legal consultancy, proposal development</li>
+      <li><strong>Marketing:</strong> Sales, marketing, and brand positioning</li>
+      <li><strong>Logistics & Operations:</strong> Imports and exports of pharmaceutical products, project planning and implementation</li>
+      <li><strong>Public Health & Safety:</strong> Health consultancy, diagnostics, pest control, mentorship, school health, counselling</li>
+      <li><strong>Infrastructure Development:</strong> Structural and systems development</li>
+      <li><strong>Pharmaceutical:</strong> Laboratory supplies, clinical services, medical research</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact Us</h2>
+    <p class="contact">
+      📧 Email: <a href="mailto:awillo@yahoo.com">awillo@yahoo.com</a><br>
+      📧 Alternate: <a href="mailto:gotieno771@gmail.com">gotieno771@gmail.com</a>
+    </p>
+  </section>
+
+  <footer>
+    &copy; 2025 Rawlly Company Limited. All rights reserved.
+  </footer>
+</body>
+</html>
+</add homepage>
